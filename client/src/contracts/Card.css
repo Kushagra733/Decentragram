@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Blaka+Hollow&family=Koulen&family=Lobster&family=Macondo&family=Oswald:wght@200;300&family=Righteous&family=Roboto+Serif:ital,opsz,wght@0,8..144,500;1,8..144,400&family=Roboto:ital,wght@0,100;0,300;0,500;0,700;0,900;1,400&family=Ubuntu:wght@300&display=swap');
+.data{
+    border: 2px solid black;
+    height: 500px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 5px;
+    box-shadow: 2px 2px 2px 0px grey;
+}
+.image{
+    height: 380px;
+    width: 400px;
+}
+.votes{
+    font-family: 'Roboto', sans-serif;
+
+    margin-top: 2px;
+}
